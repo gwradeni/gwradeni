@@ -1,14 +1,48 @@
-# eai, sou o Gwra 🤝
+<h1 align="center">👋 eai, eu sou o gwra — futuro dev Front-End</h1>
 
-bom, sou o gwra e sou aprendiz de back-end e talvez no futuro um fullstack
+<p align="center">
+  <img src="URL-DA-TUA-IMAGEM-AQUI" width="350px" />
+</p>
 
-eu não sei oq estou buscando exatamente, mas estou estudando (acho q isso é o importante)
+---
 
-## conecte comigo
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=)](https://www.github.com/AgenteDeveloper)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/pequenogwra)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/gwra.deni/)
-[![league of legends](https://img.shields.io/badge/league_of_legends-000?style=for-the-badge&logo=league-of-legends)](https://www.op.gg/summoners/br/gwra/)
+### 🚀 Sobre mim
+Sou um aspirante a desenvolvedor **Front-End**, atualmente estudando firme para dominar o ecossistema web moderno.  
+Gosto de tecnologia, games, design e sempre busco aprender algo novo que me aproxime do mercado.
 
-## habilidades 
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
+---
+
+### 🧰 Tecnologias que estou aprendendo
+<div style="display: flex; gap: 10px;">
+  <img height="32" src="URL_HTML" />
+  <img height="32" src="URL_CSS" />
+  <img height="32" src="URL_JS" />
+  <img height="32" src="URL_REACT" />
+</div>
+
+---
+
+### 📚 Atualmente estudando
+- HTML + CSS avançado  
+- JavaScript moderno (ES6+)  
+- React & Componentização  
+- Git e GitHub  
+- Boas práticas de UI
+
+---
+
+### 📫 Conecte-se comigo
+<a href="https://github.com/seuUser">GitHub</a> • 
+<a href="https://www.linkedin.com/in/seuLinkedin/">LinkedIn</a>
+
+---
+
+### 📌 Projetos em destaque
+- Em breve 👀 — preparando projetos legais para o portfólio.
+
+---
+
+### 🎮 Sobre meu lado gamer/tech  
+Curioso por hardware, performance, periféricos, setups e tudo que envolve o mundo gamer.  
+Sempre atento ao cenário tech, tendências e lançamentos.  
+
