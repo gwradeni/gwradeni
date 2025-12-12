@@ -32,8 +32,8 @@ Gosto de tecnologia, games, design e sempre busco aprender algo novo que me apro
 ---
 
 ### 📫 Conecte-se comigo
-<a href="https://github.com/seuUser">GitHub</a> • 
-<a href="https://www.linkedin.com/in/seuLinkedin/">LinkedIn</a>
+<a href="https://github.com/gwradeni">GitHub</a> • 
+<a href="https://www.linkedin.com/in/guradeni/">LinkedIn</a>
 
 ---
 
