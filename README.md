@@ -1,7 +1,7 @@
 <h1 align="center">👋 eai, eu sou o gwra — futuro dev Front-End</h1>
 
 <p align="center">
-  <img src="URL-DA-TUA-IMAGEM-AQUI" width="350px" />
+  <img src=assets/come gepetelson, give me everthiyng.png width="350px" />
 </p>
 
 ---
@@ -14,10 +14,10 @@ Gosto de tecnologia, games, design e sempre busco aprender algo novo que me apro
 
 ### 🧰 Tecnologias que estou aprendendo
 <div style="display: flex; gap: 10px;">
-  <img height="32" src="URL_HTML" />
-  <img height="32" src="URL_CSS" />
-  <img height="32" src="URL_JS" />
-  <img height="32" src="URL_REACT" />
+  <img height="32" src="assets/html.png" />
+  <img height="32" src="assets/css.png" />
+  <img height="32" src="assets/js.png" />
+  <img height="32" src="assets/react.png" />
 </div>
 
 ---
