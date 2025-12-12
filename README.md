@@ -1,7 +1,7 @@
 <h1 align="center">👋 eai, eu sou o gwra — futuro dev Front-End</h1>
 
 <p align="center">
-  <img src=assets/jjk.png width="350px" />
+  <img src=assets/jjk.png width="700px" />
 </p>
 
 ---
