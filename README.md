@@ -1,48 +1,6 @@
-<h1 align="center">👋 eai, eu sou o gwra — futuro dev Front-End</h1>
+## 👋 gwra
 
-<p align="center">
-  <img src=assets/jjk.png width="700px" />
-</p>
+Dev Front-End em formação.  
+Aprendendo, errando e evoluindo todos os dias.
 
----
-
-### 🚀 Sobre mim
-Sou um aspirante a desenvolvedor **Front-End**, atualmente estudando firme para dominar o ecossistema web moderno.  
-Gosto de tecnologia, games, design e sempre busco aprender algo novo que me aproxime do mercado.
-
----
-
-### 🧰 Tecnologias que estou aprendendo
-<div style="display: flex; gap: 10px;">
-  <img height="32" src="assets/html.png" />
-  <img height="32" src="assets/css.png" />
-  <img height="32" src="assets/js.png" />
-  <img height="32" src="assets/react.png" />
-</div>
-
----
-
-### 📚 Atualmente estudando
-- HTML + CSS avançado  
-- JavaScript moderno (ES6+)  
-- React & Componentização  
-- Git e GitHub  
-- Boas práticas de UI
-
----
-
-### 📫 Conecte-se comigo
-<a href="https://github.com/gwradeni">GitHub</a> • 
-<a href="https://www.linkedin.com/in/guradeni/">LinkedIn</a>
-
----
-
-### 📌 Projetos em destaque
-- Em breve 👀 — preparando projetos legais para o portfólio.
-
----
-
-### 🎮 Sobre meu lado gamer/tech  
-Curioso por hardware, performance, periféricos, setups e tudo que envolve o mundo gamer.  
-Sempre atento ao cenário tech, tendências e lançamentos.  
-
+HTML • CSS • JS • React
